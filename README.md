@@ -49,7 +49,7 @@ The objective is to transform raw sales data into actionable business insights f
 
 ## 📊 Dashboard Overview
 
-![Dashboard Overview](Dashboard Screenshots/Dashboard-Overview.png)
+![Dashboard Overview](Dashboard%20Screenshots/Dashboard-Overview.png)
 
 ### Dashboard Features
 
